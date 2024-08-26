@@ -1,12 +1,3 @@
-<style>
-    .code-block {
-        font-family: monospace;
-        background-color: #f5f5f5;
-        padding: 10px;
-        border-radius: 5px;
-        white-space: pre; /* This ensures that all white spaces and line breaks are preserved */
-    }
-</style>
 
 <div class="code-block">
 while Life:<br>
