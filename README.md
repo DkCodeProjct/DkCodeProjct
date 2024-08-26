@@ -1,3 +1,4 @@
+
 while Life:
     Die trying learn Nural Network..../
     Amazed by NLP.../
